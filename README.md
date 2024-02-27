@@ -1,4 +1,4 @@
-# Sentiment Analysis with Neural Networks
+# Sentiment Analysis with CBOW-Style Neural Networks
 
 This project aims to train a neural network for sentiment analysis, predicting whether a given body of text expresses positive or negative sentiment.
 
